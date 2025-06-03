@@ -1,0 +1,28 @@
+# Dataset folder
+dataset/
+
+# Optional: Also ignore common data file types if scattered elsewhere
+*.csv
+*.json
+*.xlsx
+*.pkl
+*.h5
+*.hdf5
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
