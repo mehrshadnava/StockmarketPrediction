@@ -1,5 +1,5 @@
 # Dataset folder
-dataset/
+Dataset/
 
 # Optional: Also ignore common data file types if scattered elsewhere
 *.csv
